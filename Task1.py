@@ -1,5 +1,5 @@
 #defining the function for calculator
-#rmana chnagess
+#raman chnagess
 def addition(a,b):
     return a + b
 def subtraction(a,b):
